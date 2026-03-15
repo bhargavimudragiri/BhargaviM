@@ -16,6 +16,7 @@ Glasgow, Scotland 🇬🇧
 
 I work at the intersection of **cloud infrastructure and DevOps automation**.
 My focus is on building **reliable, scalable, and automated environments** that improve software delivery and system stability.
+🤖 Current Specialization: Integrating Agentic AI (Claude Code) into DevOps workflows to automate troubleshooting and accelerate Infrastructure-as-Code (IaC) development
 
 I enjoy:
 
@@ -48,8 +49,7 @@ I enjoy:
 | **Monitoring**             | CloudWatch, Grafana, Prometheus          |
 | **Scripting**              | Python, Bash                             |
 | **Web/App**                | Tomcat, Nginx    
-AI & Automation              | Agentic AI, Claude Code, LLM Orchestration ||
-
+| **AI & Automation**        | Agentic AI, Claude Code, LLM Orchestration |
 ---
 
 ## 💼 Experience Highlights
