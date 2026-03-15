@@ -47,7 +47,8 @@ I enjoy:
 | **CI/CD**                  | GitHub Actions, Jenkins, Maven, Nexus    |
 | **Monitoring**             | CloudWatch, Grafana, Prometheus          |
 | **Scripting**              | Python, Bash                             |
-| **Web/App**                | Tomcat, Nginx                            |
+| **Web/App**                | Tomcat, Nginx    
+AI & Automation              | Agentic AI, Claude Code, LLM Orchestration ||
 
 ---
 
